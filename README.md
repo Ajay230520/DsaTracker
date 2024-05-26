@@ -40,14 +40,8 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to the branch (`git push origin feature/awesome-feature`).
 5. Create a pull request detailing your changes.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 - [Striver's A2Z sheet](link-to-strivers-sheet) for inspiration and guidance.
 - Platforms like Geeks for Geeks and LeetCode for providing valuable practice questions.
-
-## Contact
-For any inquiries or feedback, feel free to reach out at [prasunadash2005@gmail.com](mailto:prasunadash2005@gmail.com).
 
 Happy coding and good luck with your DSA preparation! 🚀
